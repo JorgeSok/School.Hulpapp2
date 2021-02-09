@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">School.Hulpapp</string>
+
+    <string-array name="Home">
+        <item>Home</item>
+        <item>Pta</item>
+        <item>Rooster</item>
+        <item>Bestanden</item>
+        <item>Leertips</item>
+        <item>Leervideos</item>
+    </string-array>
+    <string-array name="Pta">
+        <item>Pta</item>
+        <item>Home</item>
+        <item>Rooster</item>
+        <item>Bestanden</item>
+        <item>Leertips</item>
+        <item>Leervideos</item>
+    </string-array>
+    <string-array name="Rooster">
+        <item>Rooster</item>
+        <item>Home</item>
+        <item>Pta</item>
+        <item>Bestanden</item>
+        <item>Leertips</item>
+        <item>Leervideos</item>
+    </string-array>
+    <string-array name="Bestanden">
+        <item>Bestanden</item>
+        <item>Home</item>
+        <item>Pta</item>
+        <item>Rooster</item>
+        <item>Leertips</item>
+        <item>Leervideos</item>
+    </string-array>
+    <string-array name="Leertips">
+        <item>Leertips</item>
+        <item>Home</item>
+        <item>Pta</item>
+        <item>Rooster</item>
+        <item>Bestanden</item>
+        <item>Leervideos</item>
+    </string-array>
+    <string-array name="Leervideos">
+        <item>Leervideos</item>
+        <item>Home</item>
+        <item>Pta</item>
+        <item>Rooster</item>
+        <item>Bestanden</item>
+        <item>Leertips</item>
+    </string-array>
+</resources>
